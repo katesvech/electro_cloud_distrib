@@ -1,0 +1,9 @@
+## data formats
+*.csv
+*.mat
+
+## data folder
+data/
+
+## environment
+.venv/
