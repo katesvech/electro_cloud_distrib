@@ -1,7 +1,7 @@
-pandas=2.2.2            # work with dataframes
-scipy=1.14.0            # fundamental algorithms
-matplotlib=3.9.2        # basic visualisations
-plotly=5.23.0           # advanced visualisations
-nbformat>=4.2.0         # jupyter notebook support
-pyarrow=17.0.0          # work with parquet files
-fastparquet=2024.5.0    # work with parquet files
+pandas==2.2.2            # work with dataframes
+scipy==1.14.0            # fundamental algorithms
+matplotlib==3.9.2        # basic visualisations
+plotly==5.23.0           # advanced visualisations
+nbformat>=4.2.0          # jupyter notebook support
+pyarrow==17.0.0          # work with parquet files
+fastparquet==2024.5.0    # work with parquet files
