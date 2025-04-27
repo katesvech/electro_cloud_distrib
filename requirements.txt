@@ -5,3 +5,4 @@ plotly==5.23.0           # advanced visualisations
 nbformat>=4.2.0          # jupyter notebook support
 pyarrow==17.0.0          # work with parquet files
 fastparquet==2024.5.0    # work with parquet files
+h5py==3.13.0             # load HDF5 files
